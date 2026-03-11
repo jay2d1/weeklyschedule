@@ -236,7 +236,7 @@
     "subject": "Paediatrics",
 "topic": "Abnormal development including PDD",
 "faculty": "Dr Samarendra Mahapatro",
-"date": "2026-03-11",
+"date": "2026-03-10",
 "start_time": "08:00",
 "end_time": "09:00"
   },
@@ -244,7 +244,7 @@
     "subject": "Paediatrics",
 "topic": "Vitamin deficiency(A&D)",
 "faculty": "Dr Rashmi Ranjan Das",
-"date": "2026-03-2024",
+"date": "2026-03-24",
 "start_time": "08:00",
 "end_time": "09:00"
   },
@@ -295,6 +295,142 @@
   "date": "2026-03-27",
   "start_time": "16:00",
   "end_time": "17:00"
-}
+},
+{
+    "subject": "CMFM",
+    "topic": "Arthropod-borne Infection (Lymphatic Filariasis)",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-05-29",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "IDSP / IHIP",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-06-04",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Mental Health - NMHP",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-06-04",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "NVBDCP",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-06-05",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Intestinal Infection (Cholera, Typhoid)",
+    "faculty": "Dr Swayam P Parida",
+    "date": "2026-06-11",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Leprosy, Tetanus",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-06-11",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Respiratory Infection (Tuberculosis I)",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-06-18",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Communication I",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-06-18",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Zoonosis(Yellow fever, Japanese encephalitis)",
+    "faculty": "Dr Swayam P Parida",
+    "date": "2026-06-19",
+    "start_time": "14:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Communication II",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-06-25",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Respiratory Infection (Tuberculosis II)",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-06-25",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "NCD (NP-NCD)",
+    "faculty": "Dr Binod Kumar Patro",
+    "date": "2026-07-02",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Zoonosis (Taeniasis, Leishmaniasis, Hydatid)",
+    "faculty": "Dr Arvind Kumar Singh",
+    "date": "2026-07-02",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Respiratory Infection (MERS / SARS)",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-07-03",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Emerging -Reemerging Disease(Zika, Ebola Virus, Nipah Virus, Covid-19 Virus",
+    "faculty": "Dr Swayam P Parida",
+    "date": "2026-07-09",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Palliative Care",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-07-09",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Hospital Acquired Infection",
+    "faculty": "Dr Arvind Kumar Singh",
+    "date": "2026-07-17",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  }
   ]
 }

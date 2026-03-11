@@ -26,6 +26,7 @@ const PALETTE = [
 let allEvents   = [];
 let subjectMap  = {};   // subject → palette index
 let weekOffset  = 0;    // 0 = current week
+let activeGroup = 'all';
 
 /* ── UTILS ───────────────────────────────────── */
 function toMinutes(timeStr) {
@@ -105,8 +106,14 @@ const weTime = weekEnd.getTime();
 
 const visibleEvents = allEvents.filter(evt => {
   const d = parseDate(evt.date).getTime();
-  return d >= wsTime && d <= weTime;
+  const inWeek = d >= wsTime && d <= weTime;
+  const evtGroup = evt.group || 'all';
+  const groupMatch = activeGroup === 'all'
+    ? true
+    : evtGroup === 'all' || evtGroup === activeGroup;
+  return inWeek && groupMatch;
 });
+
 console.log('Week start:', weekStart.toISOString());
 console.log('Week end:', weekEnd.toISOString());
 console.log('Visible events this week:', visibleEvents.length);
@@ -237,6 +244,16 @@ document.getElementById('modal-backdrop').addEventListener('click', e => {
 });
 document.addEventListener('keydown', e => {
   if (e.key === 'Escape') closeModal();
+});
+
+/* ── GROUP SELECTOR ──────────────────────────── */
+document.querySelectorAll('.group-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    activeGroup = btn.dataset.group;
+    document.querySelectorAll('.group-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    buildGrid();
+  });
 });
 
 /* ── WEEK NAV ────────────────────────────────── */

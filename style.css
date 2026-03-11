@@ -568,3 +568,51 @@ body {
 .grid-scroll-wrapper::-webkit-scrollbar { height: 6px; }
 .grid-scroll-wrapper::-webkit-scrollbar-track { background: var(--border); border-radius: 3px; }
 .grid-scroll-wrapper::-webkit-scrollbar-thumb { background: var(--border-dark); border-radius: 3px; }
+
+.group-selector {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: var(--border);
+  border-radius: 8px;
+  padding: 4px;
+}
+
+.group-label {
+  font-family: 'Syne', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  padding: 0 6px;
+}
+
+.group-btn {
+  font-family: 'Syne', sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  width: 32px;
+  height: 28px;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--ink-2);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+
+.group-btn:hover {
+  background: var(--surface);
+  color: var(--ink);
+}
+
+.group-btn.active {
+  background: var(--ink);
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .group-label { display: none; }
+  .group-btn   { width: 28px; height: 26px; font-size: 0.72rem; }
+}
