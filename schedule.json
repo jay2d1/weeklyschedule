@@ -1,20 +1,100 @@
 {
   "events": [
     {
-      "subject": "Mathematics",
-      "topic": "Differential Equations",
-      "faculty": "Dr. Eleanor Shaw",
-      "day": "Monday",
-      "start_time": "09:00",
-      "end_time": "10:30"
+      "subject": "Ophthalmology",
+      "topic": "Anatomy and Embryology of Eye",
+      "faculty": "Dr P Mishra",
+      "date": "2026-03-09",
+      "start_time": "08:00",
+      "end_time": "09:00"
     },
     {
-      "subject": "Physics",
-      "topic": "Quantum Mechanics",
-      "faculty": "Prof. James Okafor",
-      "day": "Tuesday",
-      "start_time": "09:00",
-      "end_time": "10:30"
+      "subject": "Ophthalmology",
+      "topic": "Anatomy and Physiology of Cornea",
+      "faculty": "Dr S K Sahu",
+      "date": "2026-03-12",
+      "start_time": "16:00",
+      "end_time": "17:00"
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Visual Acuity, Accommodation and Low Vision",
+      "faculty": "Dr S K Sahu",
+      "date": "2026-03-13",
+      "start_time": "08:00",
+      "end_time": "09:00"
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Applied Anatomy and Bacterial Conjunctivitis",
+      "faculty": "Dr B Panda",
+      "date": "2026-03-13",
+      "start_time": "14:00",
+      "end_time": "15:00"
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Trachoma",
+      "faculty": "Dr B Moharana",
+      "date": "2026-03-16",
+      "start_time": "08:00",
+      "end_time": "09:00"
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Physiology of Eye and Vision",
+      "faculty": "Dr B Moharana",
+      "date": "2026-03-19",
+      "start_time": "16:00",
+      "end_time": "17:00"
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Elementary Optics and Retinoscopy",
+      "faculty": "Dr B Nayak",
+      "date": "2026-03-20",
+      "start_time": "08:00",
+      "end_time": "09:00"
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Colour Vision and its Anomalies",
+      "faculty": "Dr B Panda",
+      "date": "2026-03-23",
+      "start_time": "08:00",
+      "end_time": "09:00"
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Refractive Errors",
+      "faculty": "Dr S Parija",
+      "date": "2026-03-26",
+      "start_time": "16:00",
+      "end_time": "17:00"
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Lid Anatomy and Diseases",
+      "faculty": "Dr B Panda",
+      "date": "2026-03-27",
+      "start_time": "08:00",
+      "end_time": "09:00"
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Allergic Conjunctivitis",
+      "faculty": "Dr S Parija",
+      "date": "2026-03-27",
+      "start_time": "14:00",
+      "end_time": "15:00"
+    },
+    {
+      "subject": "Ophthalmology",
+      "topic": "Basics of Ocular Pharmacology",
+      "faculty": "Dr B Nayak",
+      "date": "2026-03-30",
+      "start_time": "08:00",
+      "end_time": "09:00"
     }
   ]
 }

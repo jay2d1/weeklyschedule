@@ -40,6 +40,11 @@ function formatTime(timeStr) {
   return `${hour}:${m.toString().padStart(2,'0')} ${suffix}`;
 }
 
+function parseDate(dateStr) {
+  const [year, month, day] = dateStr.split('-').map(Number);
+  return new Date(year, month - 1, day);
+}
+
 /** Monday of the week that is `offset` weeks from today */
 function getWeekStart(offset = 0) {
   const now = new Date();
@@ -95,10 +100,20 @@ function buildGrid() {
     `${formatDate(weekStart)} – ${formatDate(weekEnd)}`;
 
   /* ── filter events relevant to these day-names ── */
-  const visibleEvents = allEvents;  // JSON uses day names, not dates
+  const wsTime = weekStart.getTime();
+const weTime = weekEnd.getTime();
+
+const visibleEvents = allEvents.filter(evt => {
+  const d = parseDate(evt.date).getTime();
+  return d >= wsTime && d <= weTime;
+});
+console.log('Week start:', weekStart.toISOString());
+console.log('Week end:', weekEnd.toISOString());
+console.log('Visible events this week:', visibleEvents.length);
+ // JSON uses day names, not dates
+  console.log('Visible this week:', visibleEvents.length, 'Week start:', weekStart)
 
   /* ── clear grid ── */
-grid.replaceChildren();  
   grid.innerHTML = '';
 
   /* ── HEADER ROW ── */
@@ -147,8 +162,9 @@ grid.replaceChildren();
   let hasAny = false;
 
   visibleEvents.forEach(evt => {
-    const dayIdx   = DAYS.indexOf(evt.day);
-    if (dayIdx === -1) return;
+  const eventDate = parseDate(evt.date);
+const dayIdx = (eventDate.getDay() + 6) % 7; // convert to Mon=0
+const dayName = DAYS[dayIdx];
 
     const startMin = toMinutes(evt.start_time);
     const endMin   = toMinutes(evt.end_time);
@@ -163,9 +179,9 @@ grid.replaceChildren();
 
     // find the grid row where this event starts (first cell in that hour × day)
     const startHour    = Math.floor(startMin / 60);
-    const anchorCell = grid.querySelector(`[data-day="{evt.day}"][data-hour="${startHour}"]`)
-   
-     if (!anchorCell) return;
+    const rowSelector = `[data-day="${dayName}"][data-hour="${startHour}"]`;
+    const anchorCell   = grid.querySelector(rowSelector);
+    if (!anchorCell) return;
 
     const block = document.createElement('div');
     block.className = 'event-block';
@@ -190,7 +206,7 @@ grid.replaceChildren();
 
   /* ── empty state ── */
   document.getElementById('empty-state').classList.toggle('hidden', hasAny);
-  document.querySelector('.grid-scroll-wrapper').classList.toggle('hidden', !hasAny);
+  document.querySelector('.grid-scroll-wrapper').classList.remove('hidden')
 }
 
 /* ── MODAL ───────────────────────────────────── */
@@ -202,7 +218,9 @@ function openModal(evt, color) {
   document.getElementById('modal-faculty').textContent = evt.faculty;
   document.getElementById('modal-time').textContent    =
     `${formatTime(evt.start_time)} – ${formatTime(evt.end_time)}`;
-  document.getElementById('modal-day').textContent = evt.day;
+  const d = parseDate(evt.date);
+document.getElementById('modal-day').textContent =
+  d.toLocaleDateString('en-GB', { weekday:'long', day:'numeric', month:'short' });
 
   document.getElementById('modal-backdrop').classList.remove('hidden');
   document.body.style.overflow = 'hidden';
@@ -238,16 +256,16 @@ document.getElementById('today-btn').addEventListener('click', () => {
 /* ── LOAD DATA ───────────────────────────────── */
 async function loadSchedule() {
   try {
-    const res  = await fetch('./schedule.json', { cache : 'no-cache'});
+    const res  = await fetch('./schedule.json');
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-    allEvents  = data.events || [];
-    console.log('Loaded events:', allEvents);
-
-    // pre-build subject → colour map in a stable order
+    allEvents = data.events || [];
+    console.log('Total events loaded:', allEvents.length);
+    console.log('First event:', JSON.stringify(allEvents[0]));
     allEvents.forEach(e => getColor(e.subject));
     buildLegend();
     buildGrid();
+
   } catch (err) {
     console.error('Failed to load schedule.json:', err);
     document.getElementById('week-label').textContent =
