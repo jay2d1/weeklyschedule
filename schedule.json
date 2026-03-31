@@ -926,7 +926,247 @@
   "start_time": "09:00",
   "end_time": "13:00",
   "group": "A"
-}
+},
+ {
+    "subject": "Medicine",
+    "topic": "NSTEMI & Unstable Angina",
+    "faculty": "Dr. Debananda",
+    "date": "2026-04-04",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Ischemic Heart Disease",
+    "faculty": "Dr. Debananda",
+    "date": "2026-04-07",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Rheumatic Heart Disease Part 1",
+    "faculty": "Dr. Anupam",
+    "date": "2026-04-11",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Paediatrics",
+    "topic": "Micronutrient deficiency",
+    "faculty": "Dr Aditi",
+    "date": "2026-04-14",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Heart Failure- Pathophysiology & Clinical features",
+    "faculty": "Dr. Rashmi",
+    "date": "2026-04-18",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Heart Failure- Diagnosis & Management",
+    "faculty": "Dr. Rashmi",
+    "date": "2026-04-21",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Disorders of spinal cord - Non compressive myelopathies 1",
+    "faculty": "Dr. Dhriti",
+    "date": "2026-04-25",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Paediatrics",
+    "topic": "PEM-1",
+    "faculty": "Dr Bhagirathi Dwibedi",
+    "date": "2026-04-28",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Arterial disorders: Acute visceral arterial occlusion with mesenteric ischaemia & their management",
+    "faculty": "Dr. Ashok Kumar Sahoo",
+    "date": "2026-04-01",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Brief overview of compartment syndrome",
+    "faculty": "Dr. Shantanu Kumar Sahu",
+    "date": "2026-04-08",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Aneurysms including Abdominal aortic aneurysm, AV fistula and Reynold's disease",
+    "faculty": "Dr. Pankaj Kumar",
+    "date": "2026-04-15",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "T EM",
+    "faculty": "T EM",
+    "date": "2026-04-22",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "T EM",
+    "faculty": "T EM",
+    "date": "2026-04-29",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "ObG",
+    "topic": "Benign Lesions of Vulva, Vagina, Cervix",
+    "faculty": "Dr P Sethi",
+    "date": "2026-04-10",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "ObG",
+    "topic": "Disorders of Menstruation: Terminologies, Aetiology, and Evaluation",
+    "faculty": "Dr J Begum",
+    "date": "2026-04-17",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "ObG",
+    "topic": "Management of AUB in different age groups",
+    "faculty": "Dr C Jyoti",
+    "date": "2026-04-24",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Trachoma and Steven Johnson Syndrome",
+    "faculty": "Dr B Panda",
+    "date": "2026-04-02",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Viral Keratitis",
+    "faculty": "Dr P Mishra",
+    "date": "2026-04-06",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Bacterial and Fungal Corneal Ulcer",
+    "faculty": "Dr S Parija",
+    "date": "2026-04-09",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Anatomy of Uvea & Sclera",
+    "faculty": "Dr. B Moharana",
+    "date": "2026-04-10",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Anterior Uveitis",
+    "faculty": "Dr S Parija",
+    "date": "2026-04-10",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Episcleritis / Scleritis / Staphyloma",
+    "faculty": "Dr B Nayak",
+    "date": "2026-04-13",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Intermediate Uveitis",
+    "faculty": "Dr P Mishra",
+    "date": "2026-04-16",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Endophthalmitis & Panophthalmitis",
+    "faculty": "Dr S K Sahu",
+    "date": "2026-04-17",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Acute and chronic Dacryocysititis",
+    "faculty": "Dr B Panda",
+    "date": "2026-04-20",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Anatomy of Lacrimal Apparatus & Epiphora",
+    "faculty": "Dr S K Sahu",
+    "date": "2026-04-23",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Posterior Uveitis",
+    "faculty": "Dr. B Moharana",
+    "date": "2026-04-24",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Tear Films & Dry Eye Diseases",
+    "faculty": "Dr P Mishra",
+    "date": "2026-04-24",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Thyroid Eye Disease",
+    "faculty": "Dr B Nayak",
+    "date": "2026-04-27",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Entropion and Ectropion",
+    "faculty": "Dr B Panda",
+    "date": "2026-04-30",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  }
   ]
 
 }
