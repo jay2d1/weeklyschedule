@@ -775,204 +775,206 @@
     "start_time": "08:00",
     "end_time": "09:00"
 },
-{
+[
+  {
     "subject": "Medicine",
     "topic": "CVS Case",
     "faculty": "Resident",
     "date": "2026-04-09",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "RS Case",
     "faculty": "Resident",
     "date": "2026-04-10",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "RS Case",
     "faculty": "Faculty",
     "date": "2026-04-11",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "RS Case",
     "faculty": "",
     "date": "2026-04-12",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "GIT Case",
     "faculty": "Resident",
     "date": "2026-04-13",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "GIT Case",
     "faculty": "Faculty",
     "date": "2026-04-14",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "CNS Case",
     "faculty": "Resident",
     "date": "2026-04-15",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "CNS Case",
     "faculty": "Faculty",
     "date": "2026-04-16",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "CVS Case",
     "faculty": "Resident",
     "date": "2026-04-17",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "CVS Case",
     "faculty": "Faculty",
     "date": "2026-04-18",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "CVS Case",
     "faculty": "",
     "date": "2026-04-19",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "RS Case",
     "faculty": "Resident",
     "date": "2026-04-20",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "RS Case",
     "faculty": "Resident",
     "date": "2026-04-21",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "GIT Case",
     "faculty": "Resident",
     "date": "2026-04-22",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "GIT Case",
     "faculty": "Resident",
     "date": "2026-04-23",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "CNS Case",
     "faculty": "Faculty",
     "date": "2026-04-24",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "CNS Case",
     "faculty": "Resident",
     "date": "2026-04-25",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "CNS Case",
     "faculty": "",
     "date": "2026-04-26",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "CVS Case",
     "faculty": "Resident",
     "date": "2026-04-27",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "CVS Case",
     "faculty": "Faculty",
     "date": "2026-04-28",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "RS Case",
     "faculty": "Resident",
     "date": "2026-04-29",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   },
-{
+  {
     "subject": "Medicine",
     "topic": "RS Case",
     "faculty": "Faculty",
     "date": "2026-04-30",
-    "start_time": "08:00",
-    "end_time": "09:00",
+    "start_time": "09:00",
+    "end_time": "13:00",
     "group": "B"
   }
+]
   ]
 
 }
