@@ -180,7 +180,7 @@
     "subject": "CMFM",
     "topic": "NCD - Accident & Injury",
     "faculty": "Dr Binod Kumar Patro",
-    "date": "2026-04-09",
+    "date": "2026-05-14",
     "start_time": "14:00",
     "end_time": "15:00"
   },
@@ -212,9 +212,9 @@
     "subject": "CMFM",
     "topic": "Respiratory Infection (Diphtheria, Pertussis)",
     "faculty": "Dr Sonu H Subba",
-    "date": "2026-04-23",
-    "start_time": "08:00",
-    "end_time": "09:00"
+    "date": "2026-04-24",
+    "start_time": "15:00",
+    "end_time": "16:00"
   },
   {
     "subject": "CMFM",
@@ -316,7 +316,7 @@
     "subject": "CMFM",
     "topic": "Mental Health - NMHP",
     "faculty": "Dr Sonu H Subba",
-    "date": "2026-06-04",
+    "date": "2026-07-17",
     "start_time": "14:00",
     "end_time": "15:00"
   },
@@ -324,7 +324,7 @@
     "subject": "CMFM",
     "topic": "NVBDCP",
     "faculty": "Dr Binod Kumar Behera",
-    "date": "2026-06-05",
+    "date": "2026-07-02",
     "start_time": "14:00",
     "end_time": "15:00"
   },
@@ -366,7 +366,7 @@
     "faculty": "Dr Swayam P Parida",
     "date": "2026-06-19",
     "start_time": "14:00",
-    "end_time": "17:00"
+    "end_time": "15:00"
   },
   {
     "subject": "CMFM",
@@ -388,15 +388,15 @@
     "subject": "CMFM",
     "topic": "NCD (NP-NCD)",
     "faculty": "Dr Binod Kumar Patro",
-    "date": "2026-07-02",
-    "start_time": "08:00",
-    "end_time": "09:00"
+    "date": "2026-05-29",
+    "start_time": "14:00",
+    "end_time": "15:00"
   },
   {
     "subject": "CMFM",
     "topic": "Zoonosis (Taeniasis, Leishmaniasis, Hydatid)",
     "faculty": "Dr Arvind Kumar Singh",
-    "date": "2026-07-02",
+    "date": "2026-05-15",
     "start_time": "14:00",
     "end_time": "15:00"
   },
@@ -409,6 +409,14 @@
     "end_time": "15:00"
   },
   {
+    "subject": "CMFM",
+    "topic": "Emerging -Reemerging Disease(Zika, Ebola Virus, Nipah Virus, Covid-19 Virus",
+    "faculty": "Dr Swayam P Parida",
+    "date": "2026-07-02",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+   {
     "subject": "CMFM",
     "topic": "Emerging -Reemerging Disease(Zika, Ebola Virus, Nipah Virus, Covid-19 Virus",
     "faculty": "Dr Swayam P Parida",
@@ -428,7 +436,7 @@
     "subject": "CMFM",
     "topic": "Hospital Acquired Infection",
     "faculty": "Dr Arvind Kumar Singh",
-    "date": "2026-07-17",
+    "date": "2026-05-28",
     "start_time": "14:00",
     "end_time": "15:00"
   },
@@ -764,16 +772,48 @@
     "subject": "CMFM",
     "topic": "NCD - Primary Care Management",
     "faculty": "Dr Binod Kumar Patro",
-    "date": "2026-04-30",
-    "start_time": "14:00",
-    "end_time": "15:00"
+    "date": "2026-05-28",
+    "start_time": "08:00",
+    "end_time": "09:00"
   },
   {"subject": "CMFM",
     "topic": "Zoonosis-KFD,Chikungunya,Plague,Salmanellosis",
     "faculty": "Dr Arvind Kumar Singh",
     "date": "2026-04-30",
+    "start_time": "14:00",
+    "end_time": "15:00"
+},
+{
+    "subject": "CMFM",
+    "topic": "Arthropod-borne Infection (Malaria)",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-04-23",
     "start_time": "08:00",
     "end_time": "09:00"
-}
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Zoonosis",
+    "faculty": "Dr Arvind Kumar Singh",
+    "date": "2026-05-14",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Cancer-I",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-06-04",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Cancer-II",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-06-11",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  }
 ]
 }
