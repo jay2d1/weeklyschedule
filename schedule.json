@@ -814,6 +814,150 @@
     "date": "2026-06-11",
     "start_time": "08:00",
     "end_time": "09:00"
+  },
+  {
+    "subject": "Paediatrics",
+    "topic": "Diphtheria and Pertussis",
+    "faculty": "Dr Joseph John",
+    "date": "2026-05-12",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Conduct of General Anaesthesia (Premed, Induction, Maintenance, Reversal)",
+    "faculty": "Dr Sritam Swarup Jena",
+    "date": "2026-05-13",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "ObG",
+    "topic": "Post menopausal Bleeding",
+    "faculty": "Dr P Sethi",
+    "date": "2026-05-13",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Ptosis & management",
+    "faculty": "Dr B Panda",
+    "date": "2026-05-15",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Surgical Infection",
+    "faculty": "Dr. Mithilesh K Sinha",
+    "date": "2026-05-20",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "ObG",
+    "topic": "Urinary Disorders in Gynaecology-Incontinence, retention, Overactive and painful Bladder syndrome",
+    "faculty": "Dr S K Jena",
+    "date": "2026-05-20",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Applied Anatomy and Physiology of Lens",
+    "faculty": "Dr S K Sahu",
+    "date": "2026-05-22",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Congenital Cataract",
+    "faculty": "Dr S Parija",
+    "date": "2026-05-22",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "Paediatrics",
+    "topic": "Tetanus",
+    "faculty": "Dr Joseph John",
+    "date": "2026-05-26",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Acquired Cataract",
+    "faculty": "Dr S K Sahu",
+    "date": "2026-05-29",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Biometry and Intraocular Lens",
+    "faculty": "Dr B Nayak",
+    "date": "2026-06-05",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Management of Cataract",
+    "faculty": "Dr P Mishra",
+    "date": "2026-06-19",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Measures of Dispersion",
+    "faculty": "Dr. Arvind Kumar Singh/SR",
+    "date": "2026-05-11",
+    "start_time": "14:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Hospital Waste Management",
+    "faculty": "Dr. Binod Kumar Behera/SR",
+    "date": "2026-05-15",
+    "start_time": "15:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Screening & Diagnostic exercise -I",
+    "faculty": "Dr. Arvind Kumar Singh/SR",
+    "date": "2026-05-18",
+    "start_time": "14:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Visit to Dietic Centre AIIMS Bhubaneshwar and discussion on food adulteration",
+    "faculty": "Dr. Binod Kumar Patro/SR",
+    "date": "2026-05-22",
+    "start_time": "15:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Epidemiology Exercises-I",
+    "faculty": "Dr. Swayam P Parida/SR",
+    "date": "2026-05-25",
+    "start_time": "14:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Screening & Diagnostic exercise -II",
+    "faculty": "Dr. Arvind Kumar Singh/SR",
+    "date": "2026-05-29",
+    "start_time": "15:00",
+    "end_time": "17:00"
   }
 ]
 }
