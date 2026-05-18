@@ -109,7 +109,7 @@ const visibleEvents = allEvents.filter(evt => {
   const inWeek = d >= wsTime && d <= weTime;
   const evtGroup = evt.group || 'all';
   const groupMatch = activeGroup === 'all'
-    ? true
+    ? evtGroup === 'all' || evtGroup === 'A'
     : evtGroup === 'all' || evtGroup === activeGroup;
   return inWeek && groupMatch;
 });
@@ -291,3 +291,55 @@ async function loadSchedule() {
 }
 
 loadSchedule();
+
+/* ── ICS EXPORT ──────────────────────────────── */
+function pad(n) { return n.toString().padStart(2, '0'); }
+
+function toICSDate(dateStr, timeStr) {
+  const [y, mo, d] = dateStr.split('-');
+  const [h, m]     = timeStr.split(':');
+  return `${y}${pad(mo)}${pad(d)}T${pad(h)}${pad(m)}00`;
+}
+
+function generateICS(events) {
+  const lines = [
+    'BEGIN:VCALENDAR',
+    'VERSION:2.0',
+    'PRODID:-//Weekly Schedule//EN',
+    'CALSCALE:GREGORIAN',
+    'METHOD:PUBLISH',
+  ];
+
+  events.forEach((evt, i) => {
+    lines.push(
+      'BEGIN:VEVENT',
+      `UID:schedule-event-${i}-${evt.date}@weekly`,
+      `DTSTART:${toICSDate(evt.date, evt.start_time)}`,
+      `DTEND:${toICSDate(evt.date, evt.end_time)}`,
+      `SUMMARY:${evt.subject} – ${evt.topic}`,
+      `DESCRIPTION:Faculty: ${evt.faculty}\\nGroup: ${evt.group || 'All'}`,
+      `CATEGORIES:${evt.subject}`,
+      'END:VEVENT'
+    );
+  });
+
+  lines.push('END:VCALENDAR');
+  return lines.join('\r\n');
+}
+
+function downloadICS() {
+  if (!allEvents.length) return;
+  const content = generateICS(allEvents);
+  const blob    = new Blob([content], { type: 'text/calendar;charset=utf-8' });
+  const url     = URL.createObjectURL(blob);
+  const a       = document.createElement('a');
+  a.href        = url;
+  a.download    = 'schedule.ics';
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+document.querySelector('.ics-btn').addEventListener('click', e => {
+  e.preventDefault();
+  downloadICS();
+});

@@ -386,7 +386,7 @@
   },
   {
     "subject": "CMFM",
-    "topic": "NCD (NP-NCD)",
+    "topic": "NPCBVI",
     "faculty": "Dr Binod Kumar Patro",
     "date": "2026-05-29",
     "start_time": "14:00",
@@ -772,7 +772,7 @@
     "subject": "CMFM",
     "topic": "NCD - Primary Care Management",
     "faculty": "Dr Binod Kumar Patro",
-    "date": "2026-05-28",
+    "date": "2026-05-21",
     "start_time": "08:00",
     "end_time": "09:00"
   },
@@ -1010,6 +1010,57 @@
       "date": "2026-05-28",
       "start_time": "15:00",
       "end_time": "17:00"
+    },
+    {
+  "subject": "Medicine",
+  "topic": "Peripheral Neuropathy",
+  "faculty": "Dr. Rashmi",
+  "date": "2026-05-19",
+  "start_time": "08:00",
+  "end_time": "09:00"
+},
+{
+    "subject": "CMFM",
+    "topic": "Intro to National Health Policy",
+    "faculty": "Dr Arvind Kumar Singh",
+    "date": "2026-05-21",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "NCD (NP-NCD)",
+    "faculty": "Dr Binod Kumar Patro",
+    "date": "2026-05-28",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+      "subject": "ENT",
+      "topic": "Acoustic neuroma ,glomus jugulare",
+      "faculty": "Dr Anwer Shah / Dr Saurav Sarkar",
+      "date": "2026-05-15",
+      "start_time": "15:00",
+      "end_time": "17:00",
+      "group": "B"
+    },
+    {
+      "subject": "ENT",
+      "topic": "Granulomatous lesions of nose",
+      "faculty": "Dr. Rahul / Dr Saurav Sarkar",
+      "date": "2026-05-22",
+      "start_time": "15:00",
+      "end_time": "17:00",
+      "group": "B"
+    },
+    {
+      "subject": "ENT",
+      "topic": "Neurological disorder of the larynx",
+      "faculty": "Dr Anwer Shah / Dr Saurav Sarkar",
+      "date": "2026-05-29",
+      "start_time": "15:00",
+      "end_time": "17:00",
+      "group": "B"
     }
 ]
 }
