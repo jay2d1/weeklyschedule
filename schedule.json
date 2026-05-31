@@ -1061,6 +1061,78 @@
       "start_time": "15:00",
       "end_time": "17:00",
       "group": "B"
-    }
+    },
+    {
+    "subject": "ObG",
+    "topic": "Genital Tract Injuries-Perineal tears and fistulae",
+    "faculty": "Dr. C Jyoti",
+    "date": "2026-06-03",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "ObG",
+    "topic": "Nutritional anemia in pregnancy",
+    "faculty": "Dr. J Begum",
+    "date": "2026-06-17",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "ObG",
+    "topic": "Non-Nutritional anemia in pregnancy",
+    "faculty": "Dr. Deepthy B",
+    "date": "2026-06-24",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Paediatrics",
+    "topic": "PEM-1",
+    "faculty": "Dr Bhagirathi Dwibedi",
+    "date": "2026-06-09",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Paediatrics",
+    "topic": "PEM-2",
+    "faculty": "Dr Bhagirathi Dwibedi",
+    "date": "2026-06-23",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Salivary glands-I(Parotid)",
+    "faculty": "Dr.Bikram Rout",
+    "date": "2026-06-06",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Salivary glands -II(Rest of the glands)",
+    "faculty": "Dr.Bikram Rout",
+    "date": "2026-06-13",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Thyroid - Anatomy. Physiology",
+    "faculty": "Dr.S Manwar Ali",
+    "date": "2026-06-20",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Thyroid investigations",
+    "faculty": "Dr. S Manwar Ali",
+    "date": "2026-06-27",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  }
 ]
 }
