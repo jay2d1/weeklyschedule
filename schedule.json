@@ -332,15 +332,15 @@
     "subject": "CMFM",
     "topic": "Intestinal Infection (Cholera, Typhoid)",
     "faculty": "Dr Swayam P Parida",
-    "date": "2026-06-11",
-    "start_time": "08:00",
-    "end_time": "09:00"
+    "date": "2026-06-05",
+    "start_time": "14:00",
+    "end_time": "15:00"
   },
   {
     "subject": "CMFM",
     "topic": "Leprosy, Tetanus",
     "faculty": "Dr Binod Kumar Behera",
-    "date": "2026-06-11",
+    "date": "2026-06-18",
     "start_time": "14:00",
     "end_time": "15:00"
   },
@@ -348,23 +348,23 @@
     "subject": "CMFM",
     "topic": "Respiratory Infection (Tuberculosis I)",
     "faculty": "Dr Binod Kumar Behera",
-    "date": "2026-06-18",
-    "start_time": "08:00",
-    "end_time": "09:00"
-  },
-  {
-    "subject": "CMFM",
-    "topic": "Communication I",
-    "faculty": "Dr Sonu H Subba",
-    "date": "2026-06-18",
+    "date": "2026-06-19",
     "start_time": "14:00",
     "end_time": "15:00"
   },
   {
     "subject": "CMFM",
+    "topic": "Communication I",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-06-25",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
     "topic": "Zoonosis(Yellow fever, Japanese encephalitis)",
     "faculty": "Dr Swayam P Parida",
-    "date": "2026-06-19",
+    "date": "2026-06-25",
     "start_time": "14:00",
     "end_time": "15:00"
   },
@@ -811,7 +811,7 @@
     "subject": "CMFM",
     "topic": "Cancer-II",
     "faculty": "Dr Sonu H Subba",
-    "date": "2026-06-11",
+    "date": "2026-06-18",
     "start_time": "08:00",
     "end_time": "09:00"
   },
@@ -1133,6 +1133,62 @@
     "date": "2026-06-27",
     "start_time": "08:00",
     "end_time": "09:00"
-  }
+  },
+  {
+"subject": "CMFM",
+"topic": "NCD-3(injury, blindness)",
+"faculty": "Dr.Binod Kumar Patro/SR",
+"date": "2026-06-01",
+"start_time": "14:00",
+"end_time": "17:00"
+},
+{
+"subject": "CMFM",
+"topic": "Inferential statistics",
+"faculty": "Dr.Arvind Kumar Singh/SR",
+"date": "2026-06-05",
+"start_time": "15:00",
+"end_time": "17:00"
+},
+{
+"subject": "CMFM",
+"topic": "IDSP/IHIP",
+"faculty": "Dr.Binod Kumar Behera/SR",
+"date": "2026-06-08",
+"start_time": "14:00",
+"end_time": "17:00"
+},
+{
+"subject": "CMFM",
+"topic": "Epidemiology Exercises-II",
+"faculty": "Dr.Swayam P Parida/SR",
+"date": "2026-06-15",
+"start_time": "14:00",
+"end_time": "17:00"
+},
+{
+"subject": "CMFM",
+"topic": "Cancer Screening",
+"faculty": "Dr Sonu H Subba/SR",
+"date": "2026-06-19",
+"start_time": "15:00",
+"end_time": "17:00"
+},
+{
+"subject": "CMFM",
+"topic": "Materal & Neonatal Tetanus Elimination Programme (MNTE)",
+"faculty": "Dr.Binod Kumar Behera/SR",
+"date": "2026-06-22",
+"start_time": "14:00",
+"end_time": "17:00"
+},
+{
+"subject": "CMFM",
+"topic": "National Action Plan for Dog mediated Rabies Elimination (NAPRE)",
+"faculty": "Dr.Swayam P Parida/SR",
+"date": "2026-06-29",
+"start_time": "14:00",
+"end_time": "17:00"
+}
 ]
 }
