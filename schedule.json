@@ -324,7 +324,7 @@
     "subject": "CMFM",
     "topic": "NVBDCP",
     "faculty": "Dr Binod Kumar Behera",
-    "date": "2026-07-02",
+    "date": "2026-07-17",
     "start_time": "14:00",
     "end_time": "15:00"
   },
@@ -372,17 +372,17 @@
     "subject": "CMFM",
     "topic": "Communication II",
     "faculty": "Dr Sonu H Subba",
-    "date": "2026-06-25",
-    "start_time": "08:00",
-    "end_time": "09:00"
+    "date": "2026-07-02",
+    "start_time": "14:00",
+    "end_time": "15:00"
   },
   {
     "subject": "CMFM",
     "topic": "Respiratory Infection (Tuberculosis II)",
     "faculty": "Dr Binod Kumar Behera",
-    "date": "2026-06-25",
-    "start_time": "14:00",
-    "end_time": "15:00"
+    "date": "2026-07-02",
+    "start_time": "08:00",
+    "end_time": "09:00"
   },
   {
     "subject": "CMFM",
@@ -404,7 +404,7 @@
     "subject": "CMFM",
     "topic": "Respiratory Infection (MERS / SARS)",
     "faculty": "Dr Sonu H Subba",
-    "date": "2026-07-03",
+    "date": "2026-07-09",
     "start_time": "14:00",
     "end_time": "15:00"
   },
@@ -412,9 +412,9 @@
     "subject": "CMFM",
     "topic": "Emerging -Reemerging Disease(Zika, Ebola Virus, Nipah Virus, Covid-19 Virus",
     "faculty": "Dr Swayam P Parida",
-    "date": "2026-07-02",
-    "start_time": "08:00",
-    "end_time": "09:00"
+    "date": "2026-07-03",
+    "start_time": "14:00",
+    "end_time": "15:00"
   },
    {
     "subject": "CMFM",
@@ -1189,6 +1189,54 @@
 "date": "2026-06-29",
 "start_time": "14:00",
 "end_time": "17:00"
+},
+{
+"subject": "ObG",
+"topic": "Hypertension in Pregnancy",
+"faculty": "Dr S Mitra",
+"date": "2026-07-01",
+"start_time": "08:00",
+"end_time": "09:00"
+},
+{
+"subject": "ObG",
+"topic": "Pregnancy with heart disease",
+"faculty": "Dr Deepthy B",
+"date": "2026-07-08",
+"start_time": "08:00",
+"end_time": "09:00"
+},
+{
+"subject": "ObG",
+"topic": "Shock in Pregnancy",
+"faculty": "Dr J Begum",
+"date": "2026-07-15",
+"start_time": "08:00",
+"end_time": "09:00"
+},
+{
+"subject": "ObG",
+"topic": "6th End Sem exam",
+"faculty": "Department",
+"date": "2026-07-22",
+"start_time": "08:00",
+"end_time": "09:00"
+},
+{
+"subject": "ObG",
+"topic": "Thyroid disorders in pregnancy",
+"faculty": "Dr S Mitra",
+"date": "2026-07-31",
+"start_time": "16:00",
+"end_time": "17:00"
+},
+{
+"subject": "Paediatrics",
+"topic": "Acute diarrhea",
+"faculty": "Dr Aditi",
+"date": "2026-07-28",
+"start_time": "08:00",
+"end_time": "09:00"
 }
 ]
 }
