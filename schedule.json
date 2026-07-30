@@ -1309,7 +1309,392 @@
     "date": "2026-07-29",
     "start_time": "08:00",
     "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Congenital glaucoma",
+    "faculty": "Dr B Nayak",
+    "date": "2026-08-03",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Complications & management of cataract surgery",
+    "faculty": "Dr S Parija",
+    "date": "2026-08-06",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Secondary Glaucoma",
+    "faculty": "Dr B Nayak",
+    "date": "2026-08-07",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Anatomy & Physiology of Retina",
+    "faculty": "Dr P Mishra",
+    "date": "2026-08-10",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Retina Vascular Disease",
+    "faculty": "Dr B Maharana",
+    "date": "2026-08-13",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Hypertension Retinopathy",
+    "faculty": "Dr P Mishra",
+    "date": "2026-08-14",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "CSCR and Macular disorder",
+    "faculty": "Dr B Maharana",
+    "date": "2026-08-14",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Retinoblastoma",
+    "faculty": "Dr B Panda",
+    "date": "2026-08-17",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Diabetic Retinopathy",
+    "faculty": "Dr S Parija",
+    "date": "2026-08-20",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Anatomy of orbit & Applied aspects",
+    "faculty": "Dr S K Sahu",
+    "date": "2026-08-21",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Orbital cellulitis & Intraorbital abscess",
+    "faculty": "Dr B Panda",
+    "date": "2026-08-24",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "ARMD",
+    "faculty": "Dr P Mishra",
+    "date": "2026-08-27",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Orbital tumors",
+    "faculty": "Dr S K Sahu",
+    "date": "2026-08-28",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Retinal Detachments",
+    "faculty": "Dr S Parija",
+    "date": "2026-08-28",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Retinal Dystrophies & Degenerations",
+    "faculty": "Dr B Maharana",
+    "date": "2026-08-31",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+   {
+    "subject": "CMFM",
+    "topic": "Health Care Delivery System",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-07-30",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Overview of NHM",
+    "faculty": "Dr Swayam Pragyan Parida",
+    "date": "2026-07-30",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Universal Health Coverage",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-07-31",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Comprehensive Primary Health Care",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-07-31",
+    "start_time": "15:00",
+    "end_time": "16:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Health care infrastructure-I",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-08-06",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Palliative Care",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-08-06",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Voluntary Health Agency & Public Private Partnership",
+    "faculty": "Dr Swayam Pragyan Parida",
+    "date": "2026-08-07",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Health care infrastructure-II",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-08-07",
+    "start_time": "15:00",
+    "end_time": "16:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Health Financing",
+    "faculty": "Dr Arvind Kumar Singh",
+    "date": "2026-08-13",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Ayushman Bharat",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-08-13",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "PCT 1",
+    "faculty": "Dr Arvind Kumar Singh",
+    "date": "2026-08-14",
+    "start_time": "15:00",
+    "end_time": "16:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Sustainable Development Goals",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-08-20",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Health Planning & Management-I",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-08-20",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Health Planning & Management-II",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-08-21",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Social Security Schemes",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-08-21",
+    "start_time": "15:00",
+    "end_time": "16:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Health Planning & Management-III",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-08-27",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Introduction to National Health Policy",
+    "faculty": "Dr Arvind Kumar Singh",
+    "date": "2026-08-27",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Health Planning & Management-IV",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-08-28",
+    "start_time": "15:00",
+    "end_time": "16:00"
+  },
+   {
+    "subject": "Surgery",
+    "topic": "Benign diseases of the salivary gland",
+    "faculty": "Dr Bikram Rout",
+    "date": "2026-08-05",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Malignant diseases of the salivary gland",
+    "faculty": "Dr Pankaj Kumar",
+    "date": "2026-08-12",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Surgery of the parotid gland",
+    "faculty": "Dr S M Ali",
+    "date": "2026-08-19",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "System Specific post-operative complications and management",
+    "faculty": "Dr Shantanu Kumar Sahu",
+    "date": "2026-08-26",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+   {
+    "subject": "Medicine",
+    "topic": "Pulmonary Function Tests (Basics)",
+    "faculty": "Pul Med",
+    "date": "2026-08-04",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Bronchial Asthma",
+    "faculty": "Pul Med",
+    "date": "2026-08-08",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "COPD",
+    "faculty": "Pul Med",
+    "date": "2026-08-11",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Interstitial Lung Diseases",
+    "faculty": "Pul Med",
+    "date": "2026-08-18",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Neoplasms of the Lung",
+    "faculty": "Pul Med",
+    "date": "2026-08-22",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Obstructive Sleep Apnea",
+    "faculty": "Pul Med",
+    "date": "2026-08-29",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Measures of Mortality and Morbidity",
+    "faculty": "Dr Swayam Pragyan Parida / SR",
+    "date": "2026-08-03",
+    "start_time": "14:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Respiratory Infections (Influenza) - CPSCR",
+    "faculty": "Dr Arvind Kumar Singh / SR",
+    "date": "2026-08-10",
+    "start_time": "14:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Types of data & data representation",
+    "faculty": "Dr Binod Kumar Behera / SR",
+    "date": "2026-08-17",
+    "start_time": "14:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Observational Study (Cross-sectional, Case-control study & Cohort Study)",
+    "faculty": "Dr Sonu H Subba / SR",
+    "date": "2026-08-24",
+    "start_time": "14:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Balanced Diet (ANC, PNC, DM, HTN)",
+    "faculty": "Dr Binod Kumar Behera / SR",
+    "date": "2026-08-31",
+    "start_time": "14:00",
+    "end_time": "17:00"
   }
+
 
 ]
 }
