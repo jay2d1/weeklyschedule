@@ -1693,6 +1693,406 @@
     "date": "2026-08-31",
     "start_time": "14:00",
     "end_time": "17:00"
+  },
+   {
+    "subject": "CMFM",
+    "topic": "RCT",
+    "faculty": "Dr Swayam Pragyan Parida / SR",
+    "date": "2026-09-07",
+    "start_time": "14:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Normal Distribution Curve, Confidence Interval, hypothesis Testing & Test of significance",
+    "faculty": "Dr Arvind Kumar Singh / SR",
+    "date": "2026-09-14",
+    "start_time": "14:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "National Immunization Schedule & Vaccine requirement Calculation",
+    "faculty": "Dr Sonu H Subba / SR",
+    "date": "2026-09-21",
+    "start_time": "14:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Management Exercises",
+    "faculty": "Dr Sonu H Subba / SR",
+    "date": "2026-09-28",
+    "start_time": "14:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "Paediatrics",
+    "topic": "Dengue",
+    "faculty": "Prof.Dr.Bhagirathi Dwibedi",
+    "date": "2026-09-08",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Paediatrics",
+    "topic": "Common bacterial infection in children",
+    "faculty": "Prof.Dr. Rashmi Ranjan Das",
+    "date": "2026-09-22",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Paediatrics",
+    "topic": "Pneumonia",
+    "faculty": "Prof.Dr. Rashmi Ranjan Das",
+    "date": "2026-09-29",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Health Planning & Management-IV",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-09-03",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "ASHA, AWW and MPHW/ANM",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-09-03",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Health Facility Assessment & Quality Assurance",
+    "faculty": "Dr Arvind Kumar Singh",
+    "date": "2026-09-04",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "PCT/Revision Planning & Management",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-09-04",
+    "start_time": "15:00",
+    "end_time": "16:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Community based Rehabilitation",
+    "faculty": "Dr Arvind Kumar Singh",
+    "date": "2026-09-10",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "RMNCHA Overview",
+    "faculty": "Dr Swayam Pragyan Parida",
+    "date": "2026-09-10",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Respiratory Infections (Influenza)",
+    "faculty": "Dr Arvind Kumar Singh",
+    "date": "2026-09-11",
+    "start_time": "15:00",
+    "end_time": "16:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "National Programs on Nutrition of Mothers & Children",
+    "faculty": "Dr Arvind Kumar Singh",
+    "date": "2026-09-17",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Family Medicine",
+    "faculty": "Dr Sonu H Subba",
+    "date": "2026-09-17",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "PCT 2",
+    "faculty": "Dr Swayam Pragyan Parida",
+    "date": "2026-09-18",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "NITI Aayog",
+    "faculty": "Dr Binod Kumar Behera",
+    "date": "2026-09-18",
+    "start_time": "15:00",
+    "end_time": "16:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Intestinal Infections (Cholera, Typhoid)",
+    "faculty": "Dr Swayam Pragyan Parida",
+    "date": "2026-09-24",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Zoonosis (Taeniasis, Leishmaniasis and Hydatid)",
+    "faculty": "Dr Arvind Kumar Singh",
+    "date": "2026-09-24",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "CMFM",
+    "topic": "Zoonosis (KFD, Chikungunya, Salmonellosis)",
+    "faculty": "Dr Arvind Kumar Singh",
+    "date": "2026-09-25",
+    "start_time": "15:00",
+    "end_time": "16:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "System specific post operative complications and management",
+    "faculty": "Dr. Shantanu Kumar Sabu",
+    "date": "2026-09-02",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Urinary symptoms",
+    "faculty": "Dr Monica Gureh",
+    "date": "2026-09-09",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "ACS management",
+    "faculty": "Dr. Saroj Kumar Sahoo (T& EM)",
+    "date": "2026-09-16",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Thyroid IV (Mechanism and role of RAT in thyroid disorders)",
+    "faculty": "Dr Sai Patre (Nuclear Medicine)",
+    "date": "2026-09-23",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Surgery",
+    "topic": "Abdominal Trauma",
+    "faculty": "Dr. Pradeep Kumar Singh",
+    "date": "2026-09-30",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Bronchiectasis and Lung Abscess Part 1",
+    "faculty": "Dr. Anupama",
+    "date": "2026-09-01",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Pneumonia Part 1",
+    "faculty": "Dr. Anupam",
+    "date": "2026-09-05",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Pleural Diseases Part 1",
+    "faculty": "Dr. Rashmi",
+    "date": "2026-09-08",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Pleural Diseases Part 2",
+    "faculty": "Dr. Rashmi",
+    "date": "2026-09-12",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Pneumonia Part 2",
+    "faculty": "Dr. Anupam",
+    "date": "2026-09-15",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Medicine",
+    "topic": "Bronchiectasis and Lung Abscess Part 2",
+    "faculty": "Dr. Anupama",
+    "date": "2026-09-22",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Amblyopia and BSV",
+    "faculty": "Dr S Parija",
+    "date": "2026-09-03",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Thyroid Eye Disease",
+    "faculty": "Dr B Panda",
+    "date": "2026-09-04",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Eye Banking",
+    "faculty": "Dr B Nayak",
+    "date": "2026-09-07",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "ROP",
+    "faculty": "Dr S K Sahu",
+    "date": "2026-09-10",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Orbitocellulitis and CV thrombosis",
+    "faculty": "Dr B Panda",
+    "date": "2026-09-11",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Surgical aspects of retinal disease",
+    "faculty": "Dr P Mishra",
+    "date": "2026-09-11",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Anatomy of Visual pathway and its lesions",
+    "faculty": "Dr B Nayak",
+    "date": "2026-09-14",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Vascular Disorders of Retina",
+    "faculty": "Dr B Maharana",
+    "date": "2026-09-17",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Pupillary reflections and its anomalies",
+    "faculty": "Dr P Mishra",
+    "date": "2026-09-18",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Mucormycosis",
+    "faculty": "Dr S K Sahu",
+    "date": "2026-09-21",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Nystagmus",
+    "faculty": "Dr P Mishra",
+    "date": "2026-09-24",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Disease of Vitreous",
+    "faculty": "Dr B Maharana",
+    "date": "2026-09-25",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Eye in systemic disorders",
+    "faculty": "Dr B Nayak",
+    "date": "2026-09-25",
+    "start_time": "14:00",
+    "end_time": "15:00"
+  },
+  {
+    "subject": "Ophthalmology",
+    "topic": "Orbital Tumors",
+    "faculty": "Dr B Panda",
+    "date": "2026-09-28",
+    "start_time": "08:00",
+    "end_time": "09:00"
+  },
+   {
+    "subject": "ObG",
+    "topic": "Induction and augmentation of labour",
+    "faculty": "Dr S. Mitra",
+    "date": "2026-09-04",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "ObG",
+    "topic": "Antepartum fetal assessment",
+    "faculty": "Dr I. Mohapatra",
+    "date": "2026-09-11",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "ObG",
+    "topic": "Intrapartum fetal assessment",
+    "faculty": "Dr Deepthi",
+    "date": "2026-09-18",
+    "start_time": "16:00",
+    "end_time": "17:00"
+  },
+  {
+    "subject": "ObG",
+    "topic": "Placenta Previa",
+    "faculty": "Dr S. Singh",
+    "date": "2026-09-25",
+    "start_time": "16:00",
+    "end_time": "17:00"
   }
 
 
